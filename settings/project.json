@@ -1,0 +1,68 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      null,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "design-resolution-height": 1334,
+  "design-resolution-width": 750,
+  "excluded-modules": [],
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default",
+    "player",
+    "point",
+    "enemyBullet",
+    "enemy",
+    "playerBullet"
+  ],
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 1334,
+    "width": 750
+  },
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false,
+  "start-scene": "current"
+}

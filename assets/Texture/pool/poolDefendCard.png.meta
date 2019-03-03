@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d695f809-329e-44dc-8fc9-268e1fd71d58",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "poolDefendCard": {
+      "ver": "1.0.3",
+      "uuid": "8e2c5bac-3346-4487-b925-9325be5e0ba7",
+      "rawTextureUuid": "d695f809-329e-44dc-8fc9-268e1fd71d58",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 322,
+      "height": 455,
+      "rawWidth": 322,
+      "rawHeight": 455,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

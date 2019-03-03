@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1037a7f4-295d-480c-ba0a-373450972bee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "CDBar": {
+      "ver": "1.0.3",
+      "uuid": "585efcae-480d-4e41-b3cf-cc6feb37e093",
+      "rawTextureUuid": "1037a7f4-295d-480c-ba0a-373450972bee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -3.5,
+      "trimX": 18,
+      "trimY": 19,
+      "width": 369,
+      "height": 369,
+      "rawWidth": 400,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

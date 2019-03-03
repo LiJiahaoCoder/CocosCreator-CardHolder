@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b0296d16-d0a6-45a2-b198-2388a12f97dc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "classroomBombCard": {
+      "ver": "1.0.3",
+      "uuid": "6db1ab7e-8771-4665-b676-beedaa4d452b",
+      "rawTextureUuid": "b0296d16-d0a6-45a2-b198-2388a12f97dc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 322,
+      "height": 455,
+      "rawWidth": 322,
+      "rawHeight": 455,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
